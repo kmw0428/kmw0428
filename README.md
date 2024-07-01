@@ -1,4 +1,4 @@
-[![moo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmw0428)](https://github.com/kmw0428/github-readme-stats)
+[![moo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmw0428)](https://github.com/kmw0428)
 
 - 👋 Hi, I’m MooWon
 - 👀 I’m interested in Front-end
