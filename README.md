@@ -1,6 +1,8 @@
+[![moo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmw0428)](https://github.com/kmw0428/github-readme-stats)
+
 - 👋 Hi, I’m MooWon
 - 👀 I’m interested in Front-end
-- 🌱 I’m currently learning typrscript
+- 🌱 I’m currently learning React + Typrscript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
