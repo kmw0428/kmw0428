@@ -1,5 +1,7 @@
 [![moo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmw0428&show_icons=true&theme=radical)](https://github.com/kmw0428)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmw0428)](https://github.com/kmw0428)
+
 - 👋 Hi, I’m MooWon
 - 👀 I’m interested in Front-end
 - 🌱 I’m currently learning React + Typrscript
