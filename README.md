@@ -6,8 +6,6 @@
 [![moo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmw0428&show_icons=true&theme=radical)](https://github.com/kmw0428)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmw0428&layout=compact)](https://github.com/kmw0428)
 
-Skills
-
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">   
